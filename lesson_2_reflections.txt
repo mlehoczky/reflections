@@ -1,0 +1,15 @@
+
+What happens when you initialize a repository? Why do you need to do it?
+	
+  Cuando se inicializa el repositorio, se crear una subcarpeta .git oculta que contiene
+  la metainformación necesaria para seguir el control de cambios.
+  Es necesario inicializar el repositorio para indicar a Git qué carpeta contendrá
+  los archivos cuyos cambios queremos registrar a lo largo del tiempo.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+  La "staging area" es un lugar intermedio para los archivos que contienen cambios. 
+  El valor adicional que tiene es que permite congelar por un instante los cambios hasta que decidamos hacer
+  el commit. ¿?¿?
+
+
