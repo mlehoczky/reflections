@@ -12,4 +12,8 @@ How is the staging area different from the working directory and the repository?
   El valor adicional que tiene es que permite congelar por un instante los cambios hasta que decidamos hacer
   el commit. ¿?¿?
 
+How can you use the staging area to make sure you have one commit per logical change?
 
+  Comparando la staging area vs el último commit, se puede revisar y confirmar que los
+  cambios en el staging area son exactamente los que queremos, antes de hacer el 
+  commit.
