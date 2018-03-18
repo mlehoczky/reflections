@@ -24,3 +24,12 @@ What are some situations when branches would be helpful in keeping your history 
   algún cambio radical de manera experimental, es conveniente crear una branch.
   Tener bifurcaciones del proyecto general permite trabajar en versiones alternativas
   manteniendo la versión original.
+
+How do the diagrams help you visualize the branch structure?
+
+  Los diagramas permiten ver la estructura en el que cada commit es un nodo, con un único padre.
+  Cada branch produce un "hijo" alternativo a un nodo (commit) para poder intreducir características
+  diferentes y poder volver a la rama original sin problemas en caso de que fuera necesario.
+  También permite ver el caso en el que una bifurcación no es declarada como branch; en tal caso
+  si hicieramos un checkout de la rama original, los commits en la rama sin nombre se perderían.
+  Tal cosa puede visualizarse perfectamente con el gráfico de la estructura de árbol de los branchs.
