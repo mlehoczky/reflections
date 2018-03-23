@@ -40,4 +40,9 @@ What is the result of merging two branches together? Why do we represent it in t
   aplicación. En el diagrama se representa como un nuevo nodo que es hijo de los dos nodos extremos de las 
   ramas que se unen. 
 
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+  El merging automático ahorra tiempo y es una herramienta excelente.
+  El merging manual nos da más control. Además, en algunos casos el merging manual es la única manera de resolver
+  conflictos de merging.
 
