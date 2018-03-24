@@ -2,3 +2,22 @@ When would you want to use a remote repository rather than keeping all your work
 
   I'd like to keep my files in a remote repository in order to have a cloud backup of my files.
   Also, it would be helpful if i'm willing to share my code, or ask for collaboration.
+
+Why might you want to always pull changes manually rather than having Git automatically
+stay up-to-date with your remote repository?
+
+  In case two or more people were working on the same repository, I'd like to choose when to
+  pull changes to the remote. Also, maybe I would not want to pull some commits I made in 
+  the remote from other computer.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+  Forks are clones made in the GitHub cloud.
+  Clones are local copies of GitHub repositories.
+  Branches are alternative developmentes of some code that can "grow" somewhat independently from other
+  branches.
+  I would use forks to work on some other's code to make an own version.
+  I would use clones to play around with someone's code or work on my own version but only locally.
+  I'd use branches to test some radically new features in my code, or maybe to make code variants.
+
+
