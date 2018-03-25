@@ -20,4 +20,6 @@ Describe the differences between forks, clones, and branches. When would you use
   I would use clones to play around with someone's code or work on my own version but only locally.
   I'd use branches to test some radically new features in my code, or maybe to make code variants.
 
+What is the benefit of having a copy of the last known state of the remote stored locally?
 
+  The benefit is being able to checkout that state in case it's needed.
